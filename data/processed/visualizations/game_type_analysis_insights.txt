@@ -1,0 +1,17 @@
+
+Game Type Analysis Insights:
+1. Total Games Analyzed: 20
+
+Game Type Performance:
+- Main Series:
+  * Average Score: 95.2
+  * Median Score: 95.9
+  * Number of Games: 5
+- Other:
+  * Average Score: 92.9
+  * Median Score: 93.3
+  * Number of Games: 13
+- Remake:
+  * Average Score: 92.2
+  * Median Score: 92.2
+  * Number of Games: 2

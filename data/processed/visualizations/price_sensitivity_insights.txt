@@ -1,0 +1,5 @@
+
+Price Sensitivity Analysis:
+1. 20 games (100.0%) are less price sensitive (score >= 90)
+2. 0 games (0.0%) are moderately price sensitive (score 80-89)
+3. 0 games (0.0%) are highly price sensitive (score < 80)

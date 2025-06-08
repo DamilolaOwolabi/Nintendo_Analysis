@@ -1,0 +1,21 @@
+
+Customer Satisfaction Analysis:
+1. Total Games Analyzed: 20
+
+Satisfaction Levels:
+- Exceptional (90-100): 20 games (100.0%)
+- Very Satisfied (80-89): 0 games (0.0%)
+- Satisfied (70-79): 0 games (0.0%)
+- Neutral (60-69): 0 games (0.0%)
+- Dissatisfied (<60): 0 games (0.0%)
+
+Value Perception:
+- Premium Value: 20 games (100.0%)
+- High Value: 0 games (0.0%)
+- Standard Value: 0 games (0.0%)
+- Basic Value: 0 games (0.0%)
+
+Price Sensitivity:
+- Price Insensitive: 20 games (100.0%)
+- Moderately Sensitive: 0 games (0.0%)
+- Price Sensitive: 0 games (0.0%)

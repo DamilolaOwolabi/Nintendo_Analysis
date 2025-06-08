@@ -1,0 +1,9 @@
+
+Genre Analysis Insights:
+1. Total Games Analyzed: 20
+
+Genre Performance:
+- Other:
+  * Average Score: 93.4
+  * Median Score: 93.3
+  * Number of Games: 20

@@ -1,0 +1,123 @@
+
+Temporal Analysis Insights:
+1. Total Games Analyzed: 20
+
+Yearly Trends:
+- 2013:
+  * Average Score: 93.2
+  * Median Score: 93.2
+  * Number of Games: 1
+- 2015:
+  * Average Score: 92.9
+  * Median Score: 92.9
+  * Number of Games: 2
+- 2016:
+  * Average Score: 93.3
+  * Median Score: 93.3
+  * Number of Games: 1
+- 2017:
+  * Average Score: 95.4
+  * Median Score: 95.9
+  * Number of Games: 3
+- 2018:
+  * Average Score: 92.0
+  * Median Score: 92.0
+  * Number of Games: 1
+- 2019:
+  * Average Score: 92.7
+  * Median Score: 92.0
+  * Number of Games: 3
+- 2020:
+  * Average Score: 93.9
+  * Median Score: 93.9
+  * Number of Games: 1
+- 2022:
+  * Average Score: 92.9
+  * Median Score: 92.9
+  * Number of Games: 2
+- 2023:
+  * Average Score: 94.9
+  * Median Score: 94.9
+  * Number of Games: 2
+- 2024:
+  * Average Score: 92.3
+  * Median Score: 92.2
+  * Number of Games: 4
+
+Quarterly Trends:
+- 2013 Q4:
+  * Average Score: 93.2
+  * Median Score: 93.2
+  * Number of Games: 1
+- 2015 Q2:
+  * Average Score: 92.5
+  * Median Score: 92.5
+  * Number of Games: 1
+- 2015 Q3:
+  * Average Score: 93.3
+  * Median Score: 93.3
+  * Number of Games: 1
+- 2016 Q2:
+  * Average Score: 93.3
+  * Median Score: 93.3
+  * Number of Games: 1
+- 2017 Q1:
+  * Average Score: 95.9
+  * Median Score: 95.9
+  * Number of Games: 1
+- 2017 Q3:
+  * Average Score: 93.5
+  * Median Score: 93.5
+  * Number of Games: 1
+- 2017 Q4:
+  * Average Score: 96.8
+  * Median Score: 96.8
+  * Number of Games: 1
+- 2018 Q4:
+  * Average Score: 92.0
+  * Median Score: 92.0
+  * Number of Games: 1
+- 2019 Q1:
+  * Average Score: 92.0
+  * Median Score: 92.0
+  * Number of Games: 1
+- 2019 Q3:
+  * Average Score: 91.9
+  * Median Score: 91.9
+  * Number of Games: 1
+- 2019 Q4:
+  * Average Score: 94.2
+  * Median Score: 94.2
+  * Number of Games: 1
+- 2020 Q3:
+  * Average Score: 93.9
+  * Median Score: 93.9
+  * Number of Games: 1
+- 2022 Q1:
+  * Average Score: 93.3
+  * Median Score: 93.3
+  * Number of Games: 1
+- 2022 Q2:
+  * Average Score: 92.5
+  * Median Score: 92.5
+  * Number of Games: 1
+- 2023 Q1:
+  * Average Score: 94.0
+  * Median Score: 94.0
+  * Number of Games: 1
+- 2023 Q2:
+  * Average Score: 95.9
+  * Median Score: 95.9
+  * Number of Games: 1
+- 2024 Q1:
+  * Average Score: 91.7
+  * Median Score: 91.7
+  * Number of Games: 2
+- 2024 Q2:
+  * Average Score: 92.7
+  * Median Score: 92.7
+  * Number of Games: 1
+- 2024 Q4:
+  * Average Score: 93.3
+  * Median Score: 93.3
+  * Number of Games: 1

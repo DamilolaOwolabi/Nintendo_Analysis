@@ -1,0 +1,89 @@
+Total Nintendo Switch games analyzed: 20
+Average game score: 93.4
+High quality games (score >= 80): 20 (100.0%)
+Medium quality games (score 60-79): 0 (0.0%)
+Low quality games (score < 60): 0 (0.0%)
+
+Yearly Trends:
+
+2013:
+  Games released: 1
+  Average score: 93.2
+  High quality games: 1 (100.0%)
+  Medium quality games: 0 (0.0%)
+  Low quality games: 0 (0.0%)
+
+2015:
+  Games released: 2
+  Average score: 92.9
+  High quality games: 2 (100.0%)
+  Medium quality games: 0 (0.0%)
+  Low quality games: 0 (0.0%)
+
+2016:
+  Games released: 1
+  Average score: 93.3
+  High quality games: 1 (100.0%)
+  Medium quality games: 0 (0.0%)
+  Low quality games: 0 (0.0%)
+
+2017:
+  Games released: 3
+  Average score: 95.4
+  High quality games: 3 (100.0%)
+  Medium quality games: 0 (0.0%)
+  Low quality games: 0 (0.0%)
+
+2018:
+  Games released: 1
+  Average score: 92.0
+  High quality games: 1 (100.0%)
+  Medium quality games: 0 (0.0%)
+  Low quality games: 0 (0.0%)
+
+2019:
+  Games released: 3
+  Average score: 92.7
+  High quality games: 3 (100.0%)
+  Medium quality games: 0 (0.0%)
+  Low quality games: 0 (0.0%)
+
+2020:
+  Games released: 1
+  Average score: 93.9
+  High quality games: 1 (100.0%)
+  Medium quality games: 0 (0.0%)
+  Low quality games: 0 (0.0%)
+
+2022:
+  Games released: 2
+  Average score: 92.9
+  High quality games: 2 (100.0%)
+  Medium quality games: 0 (0.0%)
+  Low quality games: 0 (0.0%)
+
+2023:
+  Games released: 2
+  Average score: 94.9
+  High quality games: 2 (100.0%)
+  Medium quality games: 0 (0.0%)
+  Low quality games: 0 (0.0%)
+
+2024:
+  Games released: 4
+  Average score: 92.3
+  High quality games: 4 (100.0%)
+  Medium quality games: 0 (0.0%)
+  Low quality games: 0 (0.0%)
+
+Top 10 Games by Score:
+1. Super Mario Odyssey - Score: 96.8 (Released: 2017-10-27)
+2. The Legend of Zelda: Breath of the Wild - Score: 95.9 (Released: 2017-03-03)
+3. The Legend of Zelda: Tears of the Kingdom - Score: 95.9 (Released: 2023-05-12)
+4. Persona 5 Royal - Score: 94.2 (Released: 2019-10-31)
+5. Metroid Prime Remastered - Score: 94.0 (Released: 2023-02-08)
+6. Hades - Score: 93.9 (Released: 2020-09-17)
+7. Divinity: Original Sin 2 - Score: 93.5 (Released: 2017-09-14)
+8. The House in Fata Morgana - Score: 93.3 (Released: 2016-05-13)
+9. Dead Cells: The Queen & the Sea - Score: 93.3 (Released: 2022-01-06)
+10. Vampire Survivors: Ode to Castlevania - Score: 93.3 (Released: 2024-10-31)

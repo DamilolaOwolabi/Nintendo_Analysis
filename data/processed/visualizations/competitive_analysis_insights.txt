@@ -1,0 +1,15 @@
+
+Competitive Analysis Insights:
+1. Total Games Analyzed: 20
+
+Market Segments:
+- Premium (90-100): 20 games (100.0%)
+- High-End (80-89): 0 games (0.0%)
+- Mid-Range (70-79): 0 games (0.0%)
+- Budget (60-69): 0 games (0.0%)
+- Value (<60): 0 games (0.0%)
+
+Competitive Positioning:
+- Market Leader: 20 games (100.0%)
+- Strong Competitor: 0 games (0.0%)
+- Niche Player: 0 games (0.0%)

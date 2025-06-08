@@ -1,0 +1,21 @@
+
+Series Analysis Insights:
+1. Total Games Analyzed: 20
+
+Series Performance:
+- Zelda:
+  * Average Score: 95.9
+  * Median Score: 95.9
+  * Number of Games: 2
+- Mario:
+  * Average Score: 95.0
+  * Median Score: 95.0
+  * Number of Games: 2
+- Metroid:
+  * Average Score: 94.0
+  * Median Score: 94.0
+  * Number of Games: 1
+- Other:
+  * Average Score: 92.8
+  * Median Score: 92.7
+  * Number of Games: 15
